@@ -105,8 +105,6 @@ jupyter notebook 2_Notebook/mango_project.ipynb
 ```
 
 ---
-
-## Tools
 ## Tools
 Python (pandas, NumPy, SciPy, Matplotlib) · Power BI · Git/GitHub
 
