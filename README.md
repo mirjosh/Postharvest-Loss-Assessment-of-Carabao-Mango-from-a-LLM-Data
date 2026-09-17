@@ -41,14 +41,7 @@ This project asks:
 
 ```mermaid
 flowchart TD
-    A[Initial inspection<br/><sub>info, describe, nulls, duplicates</sub>]
-    B[Concatenate CSV files<br/><sub>2023 + 2024, year column added</sub>]
-    C[Data cleaning<br/><sub>dedupe, province labels, RH imputation, weight flags</sub>]
-    D[Unit of analysis<br/><sub>96 rows to 48 batches</sub>]
-    E[Analysis<br/><sub>t-tests, dose-response, confound check</sub>]
-    F[Power BI visualization<br/><sub>interactive dashboard</sub>]
-
-    A --> B --> C --> D --> E --> F
+    A[Initial inspection] --> B[Concatenate CSVs] --> C[Data cleaning] --> D[Unit of analysis: 48 batches] --> E[Statistical analysis] --> F[Power BI dashboard]
 ```
 
 ---
