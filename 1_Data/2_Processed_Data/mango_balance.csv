@@ -1,0 +1,7 @@
+contrast,group,n,mean_wt_kg,mean_price_php_kg,wt_ratio,price_ratio,peso_licensed,guidance
+hot_water_treated,No,32,320.7375,106.7128125,1.0,1.0,True,Peso figures are reportable for this contrast.
+hot_water_treated,Yes,16,313.475,107.468125,0.9774,1.0071,True,Peso figures are reportable for this contrast.
+year,2023,24,336.3041666666667,104.03750000000001,1.0,1.0,False,DO NOT report peso figures across this contrast. Weight and/or price are unbalanced; a peso change mixes market movement with postharvest effect. Report percentage points.
+year,2024,24,300.32916666666665,109.89166666666667,0.893,1.0563,False,DO NOT report peso figures across this contrast. Weight and/or price are unbalanced; a peso change mixes market movement with postharvest effect. Report percentage points.
+season,Dry,24,326.04583333333335,77.2725,1.0,1.0,False,DO NOT report peso figures across this contrast. Weight and/or price are unbalanced; a peso change mixes market movement with postharvest effect. Report percentage points.
+season,Wet,24,310.58750000000003,136.65666666666667,0.9526,1.7685,False,DO NOT report peso figures across this contrast. Weight and/or price are unbalanced; a peso change mixes market movement with postharvest effect. Report percentage points.
