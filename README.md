@@ -114,7 +114,12 @@ jupyter notebook 2_Notebook/mango_project.ipynb
 ---
 
 ## Tools
-Python · Power BI · Git/GitHub
+## Tools
+Python (pandas, NumPy, SciPy, Matplotlib) · Power BI · Git/GitHub
+
+*Developed with AI assistance (Claude) for code review, statistical guidance, and
+methodology checks. All analytical decisions, interpretations, and the dashboard
+design are my own.*
 
 ## Author
 **Joshua B. Mirabueno**
