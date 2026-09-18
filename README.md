@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/a4f56ca5-0f0a-4d2b-b0d9-fc4baff56ceb
 5. **Price cannot be used as an indicator for an increased pathological loss.**
    - The raw correlation (r = 0.75) collapses to r = 0.10 within season.
    - Season drives both price (scarce wet-season supply) and pathological loss (rain-spread spores).
- 6.**No effect from**
+6.**No effect from**
    - province, chain node, dwell time, ambient temperature, or humidity.
 
 ---
