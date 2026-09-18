@@ -56,12 +56,12 @@ https://github.com/user-attachments/assets/a4f56ca5-0f0a-4d2b-b0d9-fc4baff56ceb
 2. **Wet season adds +4.1 percentage points to pathological loss.**
    - It is the largest risk factor, larger than the treatment effect.
    - However, it has no effect on physiological loss.
-4. **An increase in adoption rate in 2024 reduced losses.**
+3. **An increase in adoption rate in 2024 reduced losses.**
    - Treated batches went from 4 to 12 (17% → 50%), while the per-batch treatment effect stayed the same in both years.
-5. **Price cannot be used as an indicator for an increased pathological loss.**
+4. **Price cannot be used as an indicator for an increased pathological loss.**
    - The raw correlation (r = 0.75) collapses to r = 0.10 within season.
    - Season drives both price (scarce wet-season supply) and pathological loss (rain-spread spores).
-6.**No effect from**
+5. **No effect from**
    - province, chain node, dwell time, ambient temperature, or humidity.
 
 ---
