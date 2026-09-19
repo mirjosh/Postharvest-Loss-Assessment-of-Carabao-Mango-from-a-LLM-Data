@@ -6,7 +6,7 @@ Two-year analysis of mango postharvest loss through two chain nodes.
 > Philippine carabao mango chain conditions. Findings describe the simulated
 > values and are not for real-world decisions.
 
-<img width="1340" height="762" alt="mango_project_screenshot" src="https://github.com/user-attachments/assets/0b720d65-6533-490d-bf26-9ca03566c91c" />
+<img width="1353" height="771" alt="mango_screenshot" src="https://github.com/user-attachments/assets/e8956c50-aa13-411e-9f64-40bdf8cc54ae" />
 
 ---
 
@@ -48,7 +48,9 @@ flowchart TD
 
 ## Key findings
 
-https://github.com/user-attachments/assets/a4f56ca5-0f0a-4d2b-b0d9-fc4baff56ceb
+
+https://github.com/user-attachments/assets/737e1dc7-e7b2-4fb3-b126-49ec1c0c23dd
+
 
 1. **HWT reduces pathological loss by 40% and physiological loss by 33%**
    - Pathological loss from 7.51% to 4.47%.
