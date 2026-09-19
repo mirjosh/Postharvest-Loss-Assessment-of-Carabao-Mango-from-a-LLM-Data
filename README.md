@@ -31,7 +31,7 @@ This project asks:
 |---|---|
 | Source | Synthetic (LLM-generated) |
 | Files | `mango_loss_2023.csv` (48 rows), `mango_loss_2024.csv` (49 rows, 1 duplicate) |
-| Design | 24 batches/year × 2 chain nodes (packinghouse, transport); 4 provinces |
+| Design | 24 batches/year × 2 chain nodes (packinghouse, transport); 3 provinces |
 | Variables | Treatment (HWT yes/no, temperature, duration), season, cultivar, weights, physiological and pathological loss %, dwell time, ambient temperature and RH, price |
 | Dictionary | [`mango_dictionary.csv`](1_Data/2_Processed_Data/mango_dictionary.csv) |
 
